@@ -1,0 +1,81 @@
+{
+  "tokens": [
+    {
+      "id": 0,
+      "description": "Twemoji NFT 🎰",
+      "external_url": "https://github.com/EndlessSlow/erc721-truffle-pj",
+      "image": "https://twemoji.maxcdn.com/svg/1f3b0.svg",
+      "name": "Twemoji NFT 0"
+    },
+    {
+      "id": 1,
+      "description": "Twemoji NFT 🐖",
+      "external_url": "https://github.com/EndlessSlow/erc721-truffle-pj",
+      "image": "https://twemoji.maxcdn.com/svg/1f416.svg",
+      "name": "Twemoji NFT 1"
+    },
+    {
+      "id": 2,
+      "description": "Twemoji NFT 🍒",
+      "external_url": "https://github.com/EndlessSlow/erc721-truffle-pj",
+      "image": "https://twemoji.maxcdn.com/svg/1f352.svg",
+      "name": "Twemoji NFT 2"
+    },
+    {
+      "id": 3,
+      "description": "Twemoji NFT 🐿️",
+      "external_url": "https://github.com/EndlessSlow/erc721-truffle-pj",
+      "image": "https://twemoji.maxcdn.com/svg/1f43f.svg",
+      "name": "Twemoji NFT 3"
+    },
+    {
+      "id": 4,
+      "description": "Twemoji NFT 🐾",
+      "external_url": "https://github.com/EndlessSlow/erc721-truffle-pj",
+      "image": "https://twemoji.maxcdn.com/svg/1f43e.svg",
+      "name": "Twemoji NFT 4"
+    },
+    {
+      "id": 5,
+      "description": "Twemoji NFT 🐌",
+      "external_url": "https://github.com/EndlessSlow/erc721-truffle-pj",
+      "image": "https://twemoji.maxcdn.com/svg/1f40c.svg",
+      "name": "Twemoji NFT 5"
+    },
+    {
+      "id": 6,
+      "description": "Twemoji NFT 🏩",
+      "external_url": "https://github.com/EndlessSlow/erc721-truffle-pj",
+      "image": "https://twemoji.maxcdn.com/svg/1f3e9.svg",
+      "name": "Twemoji NFT 6"
+    },
+    {
+      "id": 7,
+      "description": "Twemoji NFT 👺",
+      "external_url": "https://github.com/EndlessSlow/erc721-truffle-pj",
+      "image": "https://twemoji.maxcdn.com/svg/1f47a.svg",
+      "name": "Twemoji NFT 7"
+    },
+    {
+      "id": 8,
+      "description": "Twemoji NFT 💰",
+      "external_url": "https://github.com/EndlessSlow/erc721-truffle-pj",
+      "image": "https://twemoji.maxcdn.com/svg/1f4b0.svg",
+      "name": "Twemoji NFT 8"
+    },
+    {
+      "id": 9,
+      "description": "Twemoji NFT 🔰",
+      "external_url": "https://twemoji.maxcdn.com/svg/1f530.svg",
+      "image": "https://twemoji.maxcdn.com/svg/1f3e9.svg",
+      "name": "Twemoji NFT 9"
+    },
+    {
+      "id": 10,
+      "description": "Twemoji NFT ㊙️",
+      "external_url": "https://github.com/EndlessSlow/erc721-truffle-pj",
+      "image": "https://twemoji.maxcdn.com/svg/3299.svg",
+      "name": "Twemoji NFT 10"
+    }
+  ]
+}
