@@ -66,7 +66,7 @@
     {
       "id": 9,
       "description": "Twemoji NFT 🔰",
-      "external_url": "https://twemoji.maxcdn.com/svg/1f530.svg",
+      "external_url": "https://github.com/EndlessSlow/erc721-truffle-pj",
       "image": "https://twemoji.maxcdn.com/svg/1f530.svg",
       "name": "Twemoji NFT 9"
     },
